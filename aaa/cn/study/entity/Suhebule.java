@@ -60,7 +60,7 @@ public class Suhebule {
 	@Override
 	public String toString() {
 		return "Suhebule [sid=" + sid + ", splace=" + splace + ", dest=" + dest + ", depar=" + depar + ", arrival="
-				+ arriva234l + "]";
+				+ arrival + "]";
 	}
 	
 	
